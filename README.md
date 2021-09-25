@@ -1,2 +1,7 @@
 # pyBH-talk
-Repository associated to the talk given in a meeting the 27th of September 2021.
+
+The presentation is available in both slides (pdf format) and jupyter notebook.
+
+## Instructions to run the notebook
+
+TBD
